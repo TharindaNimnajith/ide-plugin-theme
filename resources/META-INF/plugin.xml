@@ -6,11 +6,11 @@
 
   <!-- Public plugin name should be written in Title Case.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-  <name>Ide-plugin-theme</name>
+  <name>Test-Theme</name>
   <category>UI</category>
 
   <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-  <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="support@testcompany.com" url="https://www.testcompany.com">TestCompany</vendor>
 
   <idea-version since-build="222" until-build="232.*"/>
 
@@ -18,8 +18,8 @@
        Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
   <description><![CDATA[
-    Enter short description for your theme here.<br>
-    <em>most HTML tags may be used</em>
+    IntelliJ IDEA Test-Theme Description<br>
+    <em>Test-Theme</em>
   ]]></description>
 
   <!-- Short summary of new features and bugfixes in the latest plugin version.
